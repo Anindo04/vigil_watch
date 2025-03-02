@@ -118,7 +118,7 @@ export default function HomeScreen({ navigation }) {
   return (
     <SafeAreaView style={styles.container}>
       <View style={styles.header}>
-        <Text style={styles.title}>EmergCall</Text>
+        <Text style={styles.title}>VigilWatch</Text>
       </View>
       
       <View style={styles.emergencyButtonContainer}>
